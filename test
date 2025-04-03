@@ -23,7 +23,7 @@
         "rule": "",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "update_time": "2025-03-29T16:37:00Z",
         "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/all.json"
     },
@@ -34,9 +34,8 @@
         "type": "vod",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "update_time": "2025-03-30T16:37:00Z",
-        "adult": true,
         "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/VOD/AV.json"
     }
 ]
