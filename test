@@ -23,8 +23,8 @@
         "rule": "",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.1",
-        "update_time": "2025-01-14T12:41:00Z",
+        "version": "0.0.3",
+        "update_time": "2025-02-14T12:41:00Z",
         "endpoint": "https://raw.githubusercontent.com/charlie1227/vod/refs/heads/main/feed?token=GHSAT0AAAAAADAWHCRCH7NSKKDRPC542AP4Z7N5LJA"
     }
 ]
