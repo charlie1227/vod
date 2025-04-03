@@ -32,6 +32,7 @@
         "name": "VOD2",
         "desc": "VOD",
         "type": "vod",
+        "rule": "",
         "cache": 21600,
         "author": "purkylin",
         "version": "0.0.2",
