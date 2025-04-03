@@ -23,21 +23,8 @@
         "rule": "",
         "cache": 21600,
         "author": "purkylin",
-        "version": "0.0.2",
-        "update_time": "2025-03-29T16:37:00Z",
+        "version": "0.0.1",
+        "update_time": "2025-01-13T12:41:00Z",
         "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/all.json"
-    },
-    {
-        "id": "vod2",
-        "name": "VOD2",
-        "desc": "VOD",
-        "type": "vod",
-        "rule": "",
-        "cache": 21600,
-        "author": "purkylin",
-        "version": "0.0.3",
-        "update_time": "2025-03-30T16:37:00Z",
-        "adult": true,
-        "endpoint": "https://github.com/fangkuia/XPTV/raw/refs/heads/main/VOD/AV.json"
     }
 ]
